@@ -6,4 +6,4 @@ for p in range(chaa):
            if(choa[g]<choa[p]):
                 chea+=choa[g]
 print(chea)
-#p
+#pr
